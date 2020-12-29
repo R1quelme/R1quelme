@@ -1,5 +1,5 @@
 ### Hi there, I'm Matheus Riquelme  👋
-I'm a fullstack developer, passionate about development, technology and learning something new every day
+I'm a fullstack developer prodigy, passionate about development, technology and learning something new every day
 
 🇧🇷 Born in Minas Gerais, Brazil <br>
 
