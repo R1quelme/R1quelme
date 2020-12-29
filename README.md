@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Matheus Riquelme  👋
 I'm a fullstack developer, passionate about development, technology and learning something new every day
 
-Here are some ideas to get you started:
+🇧🇷 Born and live in Passos, Brazil <br>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -11,3 +11,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### How to reach me 🌎
+
+📫 [Email](mailto:matheusriquelme10@hotmail.com)
+📸 [Instragram](https://www.instagram.com/math.riquelme) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/matheus-riquelme-guimar%C3%A3es-maia-4480371a7) <br>
+
