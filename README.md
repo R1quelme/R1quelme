@@ -1,7 +1,7 @@
 ### Hi there, I'm Matheus Riquelme  👋
 I'm a fullstack developer, passionate about development, technology and learning something new every day
 
-🇧🇷 Born and live in Minas Gerais, Brazil <br>
+🇧🇷 Born in Minas Gerais, Brazil <br>
 
 - 🔭 I'm currently working on web development projects in a company 
 - 🌱 I am currently learning and improving in PHP, Node, React, JS and BD
