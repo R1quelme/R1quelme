@@ -6,7 +6,7 @@ I'm a fullstack developer, passionate about development, technology and learning
 - 🔭 I'm currently working on web development projects in a company 
 - 🌱 I am currently learning and improving in PHP, Node, React, JS and BD
 - 👯 My learning is based on creating projects and contributing to the open source community 
-- 💬 Let's talk about programation? 
+- 💬 Wanna chat about programmation? 
 
 ### How to reach me 🌎
 
