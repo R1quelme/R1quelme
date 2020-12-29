@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm a fullstack developer, passionate about development, technology and learning something new every day
 
 Here are some ideas to get you started:
 
