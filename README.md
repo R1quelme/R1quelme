@@ -4,7 +4,7 @@ I'm a fullstack developer prodigy, passionate about development, technology and 
 🇧🇷 Born in Minas Gerais, Brazil <br>
 
 - 🔭 I'm currently working on web development projects in a company 
-- 🌱 I am currently learning and improving in PHP, Node, React, JS and BD
+- 🌱 I am currently learning and improving in PHP, Node, React, React Native, JS and BD
 - 👯 My learning is based on creating projects and contributing to the open source community 
 - 💬 Wanna chat about programmation? 
 
