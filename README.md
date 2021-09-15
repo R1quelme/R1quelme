@@ -3,7 +3,7 @@ I'm a fullstack developer prodigy, passionate about development, technology and 
 
 🇧🇷 Born in Minas Gerais, Brazil <br>
 
-- 🔭 I'm currently working on web development projects in a company 
+- 🔭 I'm currently working on mobile development projects in a company 
 - 🌱 I am currently learning and improving in Node, React and React Native.
 - 👯 My learning is based on creating projects and contributing to the open source community 
 - 💬 Wanna chat about programmation? 
