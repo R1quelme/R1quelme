@@ -5,7 +5,7 @@ I'm a fullstack developer prodigy, passionate about development, technology and 
 
 - 🔭 I'm currently working on mobile development projects in a company 
 - 🌱 I am currently learning and improving in Node, React and React Native.
-- 👯 My learning is based on creating projects and contributing to the open source community 
+- 👯 My learning is based on creating projects, contributing to the open source community and working
 - 💬 Wanna chat about programmation? 
 
 ### How to reach me 🌎
